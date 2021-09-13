@@ -1,2 +1,2 @@
 # Full-Stack-MERN
-More about my learning in MERN
+More about my learning in MERN.
